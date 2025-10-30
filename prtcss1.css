@@ -16,15 +16,6 @@ body {
 }
 
 
-body {
-  margin: 0;
-  padding: 0;
-}
-
-main,
-section {
-  margin-top: 100px;     /* adjust this value to match your header height */
-}
 
 
 #img1{
@@ -218,6 +209,7 @@ b{
     box-shadow: 8px 4px 6px rgba(0,0,0,0.4);
 
 }
+
 
 
 
