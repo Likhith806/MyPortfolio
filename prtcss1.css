@@ -30,7 +30,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 16px 32px;
-    position:fixed;
+    position:sticky;
     background-color: #020202;
     color: white;
 }
@@ -206,3 +206,4 @@ b{
     box-shadow: 8px 4px 6px rgba(0,0,0,0.4);
 
 }
+
