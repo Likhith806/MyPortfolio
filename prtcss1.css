@@ -15,9 +15,6 @@ body {
     margin-bottom: 1rem;
 }
 
-
-
-
 #img1{
     float: left;
     padding-right: 5px;
@@ -33,7 +30,6 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 16px 32px;
-   
     background-color: #020202;
     color: white;
 }
@@ -207,11 +203,4 @@ b{
     border-radius: 10px;
     
     box-shadow: 8px 4px 6px rgba(0,0,0,0.4);
-
 }
-
-
-
-
-
-
